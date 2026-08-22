@@ -1,0 +1,23 @@
+# .NET
+bin/
+obj/
+publish/
+installer/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local ADB binaries
+adb/
+src/ADB_USB_Speed_Test/adb/
+build/adb/
+*.zip
+*.exe
+*.dll
+
+# OS
+Thumbs.db
+.DS_Store
