@@ -2,6 +2,8 @@
 
 A native Windows GUI for testing ADB/USB transfer performance with Android devices and VR headsets.
 
+![ADB USB Speed Test](Screenshot.png)
+
 ## Features
 
 - Native Windows x64 application built with .NET 8 WinForms
