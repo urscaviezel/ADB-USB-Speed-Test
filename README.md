@@ -48,10 +48,11 @@ Enter the desired bandwidth in Mbit/s and choose the test duration.
 ## Default settings
 
 - Test mode: **Determine maximum stable transfer rate**
-- Test duration: **600 seconds**
-- TCP port: **5001**
+- Test duration: **600s** **(can be adjusted manually**
+- Standard TCP port: **5001** **(can be adjusted manually)**
 
 Settings are stored persistently and reused the next time the application is started.
+(%LOCALAPPDATA%\ADB_USB_Speed_Test)
 
 ## Requirements
 
