@@ -1,0 +1,2 @@
+Copy the official Android SDK Platform Tools files here before building.
+ADB binaries are not committed to the repository.
